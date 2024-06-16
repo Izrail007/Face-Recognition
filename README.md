@@ -48,4 +48,4 @@ This project leverages facial recognition technology to automate student attenda
 3. Ater downloading that, copy the entire face_recog_dlib_file-master folder and paste it in your project file.
 4. Finally, you can install all these libraries face-recognition, dlib and cmake.
 
-## Contact:- If you have any questions, feel free to contact me via email: talhamomin000@gmail.com
+## Contact:- If you have any questions, feel free to contact me via email: khanizrail73@gmail.com
